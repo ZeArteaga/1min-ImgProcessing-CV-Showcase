@@ -19,7 +19,7 @@ The final video is divided into four main sections:
 - Python 3.x
 - OpenCV
 - MediaPipe
-- MediaPy
+- MoviePy
 
 ## Usage
 **for everything stated below try ```python3``` if ```python```does not work.**
